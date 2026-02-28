@@ -1,0 +1,1 @@
+ALTER TYPE public.area ADD VALUE IF NOT EXISTS 'pimpri_chinchwad';
